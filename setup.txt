@@ -26,7 +26,7 @@ thunderbird
 
 # Install apps
 #
-sudo apt-get install vim tmux kate geany meld tree curl tig
+sudo apt-get install vim tmux kate geany meld tree curl tig gitk
 
 
 # Install dev tools
